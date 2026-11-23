@@ -1,5 +1,5 @@
 
-# Experiment 4 – Asset-Oriented Risk Assessment of Storage Assets in AWS
+# Experiment 5 – Asset-Oriented Risk Assessment of Storage Assets in AWS
 
 ## Objective
 To identify storage assets in AWS S3, examine their security configurations, identify possible vulnerabilities and threats, and assess their likelihood, impact, and risk level.
